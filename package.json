@@ -26,6 +26,6 @@
     "jsdom": "^16.2.2",
     "mocha": "^7.0.0",
     "node-fetch": "^2.6.1",
-    "release-it": "^13.5.1"
+    "release-it": "^15.11.0"
   }
 }
